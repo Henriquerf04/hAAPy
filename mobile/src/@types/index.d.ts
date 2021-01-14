@@ -1,0 +1,1 @@
+ declare module "*.png"    // definindo arquivos png como módulo (pode ser importado), Typescript não entendem png por padrão
